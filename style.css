@@ -1,0 +1,57 @@
+body {
+    background-color: #d47343;
+    margin: 0;
+    padding: 0;
+}
+.gora {
+    height: 70px;
+    text-align: center;
+    background-color: #7A3716;
+    line-height: 0px;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+p > b {
+    font-size: 25px;
+}
+.w, .e {
+    font-size: 40px;
+}
+.sr {
+    text-align: center;
+}
+div.ludzie {
+    width: 40%;
+    height: 30%;
+    background-color: #FBA478;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+    margin: 1%;
+}
+.stopka {
+    width: 100%;
+    background-color: #7A3716;
+    position: fixed;
+    bottom: 0;
+    height: 100px;
+    color: white;
+    text-align: center;
+    line-height: 25px;
+}
+/*dodatki*/
+::-webkit-scrollbar {
+    width: 10px;
+}
+  ::-webkit-scrollbar-track {
+    background: #000000;
+}
+  ::-webkit-scrollbar-thumb {
+    background: #ffffff2a;
+}
+  ::-webkit-scrollbar-thumb:hover {
+    background: #ffffff;
+}   
